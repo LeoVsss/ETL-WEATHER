@@ -10,7 +10,9 @@ wheels/
 .venv
 /config
 uv.lock
-docker-compose.yaml
 /data
 /plugins
-/notebooks
+/logs
+.vscode
+.env
+.vscode
